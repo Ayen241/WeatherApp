@@ -52,6 +52,7 @@ lib/config/api_keys.dart
 lib/secrets/
 constants.dart
 api_config.dart
+lib/data/my_data.dart
 
 # Firebase configuration (if added later)
 google-services.json
